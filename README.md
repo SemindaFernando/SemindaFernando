@@ -24,16 +24,16 @@
 <tr>
 <td width="60%">
 
-I'm an undergraduate **Software Engineering student** passionate about building modern applications and creative digital experiences.
+🎓 Software Engineering Undergraduate
 
-* 🎓 Software Engineering Undergraduate
-* 💻 Web & Mobile Application Development
-* 📱 React Native & Flutter
-* ⚛️ React & Modern JavaScript
-* 🎨 UI/UX Design & Prototyping
-* 🤖 Currently exploring Artificial Intelligence
-* 📸 Photography & Videography
-* 🚀 Always learning and building new things
+- 💻 Full-Stack Web & Mobile Application Development
+- 📱 React Native & Flutter
+- ⚛️ React & Modern JavaScript
+- 🎨 UI/UX Design & Prototyping
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🔧 Building real-world projects and practical solutions
+- 📚 Continuously learning and exploring new technologies
+- 🚀 Passionate about creating, learning, and improving
 
 </td>
 
