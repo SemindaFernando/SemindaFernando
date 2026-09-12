@@ -31,7 +31,7 @@
 
 <td width="40%" align="center">
 
-<img src="assets/my git.gif" width="550" alt="Seminda Fernando"/>
+<img src="assets/my git.gif" width="450" alt="Seminda Fernando"/>
 
 </td>
 </tr>
