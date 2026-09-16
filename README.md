@@ -134,11 +134,11 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/seminda-dewruwan-fernando">
+<a href="https://www.linkedin.com/in/semindafernando">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/semindafernando">
+<a href="https://www.instagram.com/seminda_fernando_">
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
