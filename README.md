@@ -28,7 +28,7 @@
 🎓 **Software Engineering Undergraduate**
 
 - 💻 Full-Stack Web & Mobile Application Development
-- 📱 React Native & Flutter
+- 📱 React Native (Expo Go) & Flutter
 - ⚛️ React & Modern JavaScript
 - 🎨 UI/UX Design & Prototyping
 - 🤖 Exploring Artificial Intelligence & Machine Learning
@@ -59,9 +59,14 @@
 
 <img src="https://skillicons.dev/icons?i=flutter,firebase,express,nestjs,mongodb,mysql&theme=dark" alt="Mobile and Backend"/>
 
+<br/>
+
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Expo%20Go-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+
 ### 🎨 Design & Creative
 
-<img src="https://skillicons.dev/icons?i=figma,xd,ps,lr,pr&theme=dark" alt="Design"/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,pr&theme=dark" alt="Design"/>
 
 <br/>
 
