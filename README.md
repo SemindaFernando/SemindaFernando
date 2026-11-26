@@ -34,7 +34,7 @@
 - 🤖 Exploring Artificial Intelligence & Machine Learning
 - 🔧 Building real-world projects and practical solutions
 - 📚 Continuously learning and exploring new technologies
-- 🚀 Passionate about creating, learning, and improving
+- 🚀 Passionate about creating, learning, and improving.
 
 </td>
 <td width="40%" align="center" valign="middle">
